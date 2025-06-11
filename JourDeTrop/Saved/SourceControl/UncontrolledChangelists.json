@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Maps/Bureau.umap",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/GM_JourDeTrop.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Character/BP_Player.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Levels/Bureau.umap",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Blueprints/Player/BP_Player.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/IMC_JourDeTrop.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Input/IMC_JourDeTrop.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Input/IA_Interract.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Input/IA_Move.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Input/IA_Pause.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Input/IA_Look.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/BPL_Library.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/PC_JourDeTrop.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Levels/_GENERATED/Pierre/CubeGridToolOutput_6D24290C.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Levels/_GENERATED/Pierre/Box_C53075CF.uasset",
+				"C:/Users/Pierre/Desktop/JourDeTrop/Content/Levels/_GENERATED/Pierre/CubeGridToolOutput_52A61B26.uasset"
+			]
+		}
+	]
+}
