@@ -16140,34 +16140,3 @@ Make sure '/Game/GM_JourDeTrop.GM_JourDeTrop_C' has been compiled for  Get Achat
 [2026.01.29-12.17.23:040][513]LogAudio: Display: Audio Device Manager Shutdown
 [2026.01.29-12.17.23:047][513]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
 [2026.01.29-12.17.23:048][513]LogExit: Preparing to exit.
-[2026.01.29-12.17.31:329][513]LogThreadingWindows: Error: Runnable thread Background Worker #2 crashed.
-[2026.01.29-12.17.31:329][513]LogWindows: Error: === Critical error: ===
-[2026.01.29-12.17.31:329][513]LogWindows: Error: 
-[2026.01.29-12.17.31:329][513]LogWindows: Error: Fatal error!
-[2026.01.29-12.17.31:329][513]LogWindows: Error: 
-[2026.01.29-12.17.31:329][513]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000008
-[2026.01.29-12.17.31:329][513]LogWindows: Error: 
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff840330613 UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff8403369f5 UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff840336a4b UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff84033c12c UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff841401755 UnrealEditor-Engine.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff83ffe0b7c UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff83ff256b3 UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff83ff97228 UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff83fdbe1a0 UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff83fd81774 UnrealEditor-CoreUObject.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff8458edc55 UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff8458ed9b6 UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff845913d11 UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff8458d5fe5 UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff845af1a33 UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff845f937cd UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff845f8c91f UnrealEditor-Core.dll!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: [Callstack] 0x00007ff8d93de8d7 KERNEL32.DLL!UnknownFunction []
-[2026.01.29-12.17.31:329][513]LogWindows: Error: 
-[2026.01.29-12.17.31:329][513]LogWindows: Error: Crash in runnable thread Background Worker #2
-[2026.01.29-12.17.31:332][513]LogExit: Executing StaticShutdownAfterError
-[2026.01.29-12.17.31:370][513]LogWindows: FPlatformMisc::RequestExit(1, FRunnableThreadWin::GuardedRun.ExceptionHandler)
-[2026.01.29-12.17.31:370][513]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, FRunnableThreadWin::GuardedRun.ExceptionHandler)
-[2026.01.29-12.17.31:370][513]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)

@@ -1,0 +1,2 @@
+/Engine/Transient.World_8:PersistentLevel.PC_JourDeTrop_C_0
+/Engine/Transient.REINST_PC_JourDeTrop_C_2
