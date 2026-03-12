@@ -9770,3 +9770,1151 @@ Make sure '/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.Wb_ListItem
 [2026.03.12-10.11.17:106][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.12-10.11.17:106][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.12-10.11.17:107][401]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/WB_Frigo Validating asset
+[2026.03.12-10.13.06:017][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-10.13.06:053][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Appartement/Frigo/Inventaire/WB_Frigo] ([2] browsable assets)...
+[2026.03.12-10.13.06:053][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appartement/Frigo/Inventaire/WB_Frigo]
+[2026.03.12-10.13.06:094][496]LogSavePackage: Moving output files for package: /Game/Blueprints/Appartement/Frigo/Inventaire/WB_Frigo
+[2026.03.12-10.13.06:094][496]LogSavePackage: Moving '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Saved/WB_Frigo83B81B8143A010FB7308D3A549CFF29B.tmp' to '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Content/Blueprints/Appartement/Frigo/Inventaire/WB_Frigo.uasset'
+[2026.03.12-10.13.06:103][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.227 ms (total: 4.43 sec)
+[2026.03.12-10.13.06:131][496]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-10.13.06:132][496]LogContentValidation: Enabled validators:
+[2026.03.12-10.13.06:132][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-10.13.06:132][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-10.13.06:132][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-10.13.06:132][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-10.13.06:132][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-10.13.06:132][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-10.13.06:133][496]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/WB_Frigo Validating asset
+[2026.03.12-10.13.11:716][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.12-10.13.11:730][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-10.13.11:754][948]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.13.11:759][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004288s)
+[2026.03.12-10.13.11:759][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Map_Appartement.Map_Appartement to /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement (0.004335s)
+[2026.03.12-10.13.11:828][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.12-10.13.11:829][948]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Appartement
+[2026.03.12-10.13.11:832][948]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2026.03.12-10.13.11:833][948]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-10.13.11:833][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-10.13.11:833][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-10.13.11:833][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-10.13.11:833][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-10.13.11:833][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-10.13.11:835][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-10.13.11:866][948]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2026.03.12-10.13.11:866][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-10.13.11:866][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-10.13.11:866][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-10.13.11:866][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.03.12-10.13.11:866][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.03.12-10.13.11:869][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.03.12-10.13.11:869][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.03.12-10.13.11:869][948]LogInit: FAudioDevice initialized with ID 34.
+[2026.03.12-10.13.11:869][948]LogAudio: Display: Audio Device (ID: 34) registered with world 'Map_Appartement'.
+[2026.03.12-10.13.11:869][948]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.12-10.13.11:874][948]LogLoad: Game class is 'GM_JourDeTrop_C'
+[2026.03.12-10.13.11:874][948]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement up for play (max tick rate 0) at 2026.03.12-11.13.11
+[2026.03.12-10.13.11:875][948]LogWorld: Bringing up level for play took: 0.000961
+[2026.03.12-10.13.11:878][948]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.03.12-10.13.11:879][948]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Jour Suivant
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Pas de commande en cours
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Modification valeur
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Modification valeur
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Modification valeur
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.13.11:880][948]LogBlueprintUserMessages: [Map_Appartement_C_0] Aucune
+[2026.03.12-10.13.11:882][948]PIE: Server logged in
+[2026.03.12-10.13.11:884][948]PIE: Play in editor total start time 0,155 seconds.
+[2026.03.12-10.13.11:895][949]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.11:895][949]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.11:980][950]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.11:980][950]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:020][953]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:020][953]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:126][964]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:126][964]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:226][974]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:226][974]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:324][984]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:324][984]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:426][994]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:426][994]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:525][  4]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:525][  4]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:618][ 14]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:618][ 14]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:723][ 25]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:723][ 25]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:818][ 34]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:818][ 34]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.12:927][ 45]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.12:927][ 45]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.13:028][ 55]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.13:028][ 55]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.13:125][ 65]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.13:125][ 65]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.13:219][ 75]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.13:219][ 75]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.13:357][ 88]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.13:357][ 88]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.12-10.13.15:536][270]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nouvelle Entrer
+[2026.03.12-10.13.15:537][270]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Ajout au Panier : 5 : 125
+[2026.03.12-10.13.15:537][270]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] ID : lembas
+[2026.03.12-10.13.16:086][315]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nombres contenus :1
+[2026.03.12-10.13.16:087][315]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.16:619][358]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.13.16:824][378]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.16:825][378]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.16:925][388]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.16:925][388]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:024][398]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:024][398]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:118][408]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:118][408]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:220][419]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:220][419]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:321][430]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:321][430]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:424][440]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:424][440]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:521][450]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:521][450]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:621][461]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:621][461]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:724][472]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:724][472]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:820][482]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:820][482]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.17:923][493]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.17:923][493]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.18:264][528]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.18:265][528]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.18:265][528]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.18:266][528]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.18:266][528]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.13.18:973][598]LogBlueprintUserMessages: [WB_Lettre_C_0] 1
+[2026.03.12-10.13.18:973][598]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.18:973][598]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_2] Hello
+[2026.03.12-10.13.18:974][598]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.18:974][598]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.18:975][598]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.18:976][598]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_2] Lettre
+[2026.03.12-10.13.20:060][700]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.20:060][700]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.20:862][780]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.13.21:182][814]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Jour Suivant
+[2026.03.12-10.13.21:183][814]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Livraison Colis Aujourd'hui : 0
+[2026.03.12-10.13.21:183][814]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Hello
+[2026.03.12-10.13.21:519][850]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.13.21:520][850]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.13.21:521][850]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.13.21:521][850]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.21:521][850]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.13.22:118][906]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.13.22:119][906]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.13.22:120][906]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Icone_Stress
+[2026.03.12-10.13.22:121][906]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_1] Colis
+[2026.03.12-10.13.22:898][936]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.13.22:898][936]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Icone_Stress
+[2026.03.12-10.13.22:900][936]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Icone_Faim
+[2026.03.12-10.13.22:901][936]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_4] Colis
+[2026.03.12-10.13.23:307][975]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Rien
+[2026.03.12-10.13.23:307][975]LogBlueprintUserMessages: [GI_JourDeTrop_C_32] Add new : Quantity -> 5In,dex : 0
+[2026.03.12-10.13.23:307][975]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_8] Aliment
+[2026.03.12-10.13.23:878][999]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.13.23:879][999]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_7] Object
+[2026.03.12-10.13.25:854][126]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.13.26:137][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:137][155]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:230][162]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:230][162]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:376][168]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:376][168]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:432][173]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:432][173]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:530][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:530][183]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:632][193]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:632][193]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:738][203]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:738][203]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:830][212]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:830][212]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.26:932][222]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.26:932][222]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:033][232]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:033][232]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:135][242]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:135][242]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:230][250]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:230][250]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:331][260]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:331][260]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:430][270]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:430][270]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:531][280]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:531][280]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:636][291]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:636][291]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:736][301]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:736][301]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:836][311]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:837][311]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.27:937][321]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.27:937][321]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.28:285][358]LogBlueprintUserMessages: [WB_Frigo_C_0] lembas : Expire dans :10x5
+[2026.03.12-10.13.28:285][358]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.28:285][358]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.13.28:292][358]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.28:292][358]LogBlueprintUserMessages: [Wb_ListItem_C_0] Group
+[2026.03.12-10.13.29:521][483]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.29:521][483]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.29:542][485]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.30:720][600]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.32:511][782]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.32:511][782]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.32:530][784]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.33:067][837]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.33:802][914]LogBlueprintUserMessages: [Wb_ListItem_C_0] Expand
+[2026.03.12-10.13.33:809][914]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.33:809][914]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.33:830][916]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.34:574][994]LogBlueprintUserMessages: [Wb_ListItem_C_0] Expand
+[2026.03.12-10.13.35:772][112]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.36:315][169]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.36:315][169]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.36:332][171]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.36:805][219]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.37:396][281]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.37:396][281]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.37:418][283]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.38:277][370]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.38:775][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.13.38:775][417]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.13.38:775][417]LogWorld: UWorld::CleanupWorld for Map_Appartement, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.13.38:779][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.13.38:780][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-10.13.38:786][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.13.38:813][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.12-10.13.38:814][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.12-10.13.38:814][417]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.03.12-10.13.38:817][417]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.03.12-10.13.38:822][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.13.38:826][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.12-10.13.38:867][418]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.03.12-10.13.43:313][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.12-10.13.44:050][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-10.13.44:091][948]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem] ([2] browsable assets)...
+[2026.03.12-10.13.44:094][948]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.Wb_ListItem]
+[2026.03.12-10.13.44:094][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem]
+[2026.03.12-10.13.44:119][948]LogSavePackage: Moving output files for package: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem
+[2026.03.12-10.13.44:120][948]LogSavePackage: Moving '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Saved/Wb_ListItem435B99CD48B2D99B530A058E8342FFEF.tmp' to '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Content/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.uasset'
+[2026.03.12-10.13.44:132][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.551 ms (total: 4.51 sec)
+[2026.03.12-10.13.44:157][948]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-10.13.44:157][948]LogContentValidation: Enabled validators:
+[2026.03.12-10.13.44:157][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-10.13.44:157][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-10.13.44:157][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-10.13.44:157][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-10.13.44:157][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-10.13.44:157][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-10.13.44:158][948]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem Validating asset
+[2026.03.12-10.13.45:451][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.12-10.13.45:465][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-10.13.45:505][ 86]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.13.45:509][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004256s)
+[2026.03.12-10.13.45:509][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Map_Appartement.Map_Appartement to /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement (0.004303s)
+[2026.03.12-10.13.45:539][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.12-10.13.45:542][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Appartement
+[2026.03.12-10.13.45:544][ 86]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2026.03.12-10.13.45:546][ 86]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-10.13.45:546][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-10.13.45:546][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-10.13.45:546][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-10.13.45:546][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-10.13.45:546][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-10.13.45:549][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-10.13.45:579][ 86]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2026.03.12-10.13.45:579][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-10.13.45:579][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-10.13.45:579][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-10.13.45:580][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.03.12-10.13.45:580][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.03.12-10.13.45:584][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.03.12-10.13.45:584][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.03.12-10.13.45:584][ 86]LogInit: FAudioDevice initialized with ID 35.
+[2026.03.12-10.13.45:584][ 86]LogAudio: Display: Audio Device (ID: 35) registered with world 'Map_Appartement'.
+[2026.03.12-10.13.45:584][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.03.12-10.13.45:588][ 86]LogLoad: Game class is 'GM_JourDeTrop_C'
+[2026.03.12-10.13.45:589][ 86]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement up for play (max tick rate 0) at 2026.03.12-11.13.45
+[2026.03.12-10.13.45:589][ 86]LogWorld: Bringing up level for play took: 0.001119
+[2026.03.12-10.13.45:592][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.03.12-10.13.45:594][ 86]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Jour Suivant
+[2026.03.12-10.13.45:594][ 86]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Pas de commande en cours
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Modification valeur
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Modification valeur
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Modification valeur
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.13.45:595][ 86]LogBlueprintUserMessages: [Map_Appartement_C_0] Aucune
+[2026.03.12-10.13.45:596][ 86]PIE: Server logged in
+[2026.03.12-10.13.45:599][ 86]PIE: Play in editor total start time 0,134 seconds.
+[2026.03.12-10.13.45:611][ 87]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.45:611][ 87]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.45:672][ 88]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.45:672][ 88]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.45:755][ 95]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.45:755][ 95]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.45:859][106]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.45:859][106]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.45:959][116]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.45:959][116]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:057][126]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:057][126]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:155][136]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:155][136]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:257][147]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:257][147]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:364][157]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:364][157]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:458][166]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:459][166]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:557][175]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:557][175]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:659][185]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:659][185]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:754][195]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:754][195]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.46:860][206]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.46:860][206]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.47:100][229]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.47:100][229]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.12-10.13.48:184][318]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nouvelle Entrer
+[2026.03.12-10.13.48:184][318]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Ajout au Panier : 2 : 20
+[2026.03.12-10.13.48:185][318]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] ID : lembas
+[2026.03.12-10.13.48:665][357]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nombres contenus :1
+[2026.03.12-10.13.48:666][357]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.49:327][412]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.13.49:748][456]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Jour Suivant
+[2026.03.12-10.13.49:748][456]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Livraison Colis Aujourd'hui : 0
+[2026.03.12-10.13.49:748][456]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Hello
+[2026.03.12-10.13.50:454][527]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.50:454][527]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.50:557][536]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.50:557][536]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.50:660][546]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.50:660][546]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.50:759][555]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.50:759][555]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.50:862][565]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.50:862][565]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.50:956][575]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.50:956][575]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:058][586]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:058][586]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:156][596]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:156][596]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:252][606]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:252][606]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:357][617]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:357][617]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:458][627]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:458][627]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:554][637]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:554][637]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:655][647]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.51:655][647]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.51:901][671]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.51:902][671]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.51:903][671]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.51:903][671]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.51:904][671]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.51:904][671]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.13.52:421][720]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.52:422][720]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.52:423][720]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.52:423][720]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Icone_Faim
+[2026.03.12-10.13.52:424][720]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_3] Colis
+[2026.03.12-10.13.52:591][736]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Rien
+[2026.03.12-10.13.52:591][736]LogBlueprintUserMessages: [GI_JourDeTrop_C_33] Add new : Quantity -> 2In,dex : 0
+[2026.03.12-10.13.52:592][736]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_7] Aliment
+[2026.03.12-10.13.53:286][799]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.53:287][799]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.13.53:287][799]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.13.53:294][800]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.13.53:458][815]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.53:458][815]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.53:563][824]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.53:563][824]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.53:656][832]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.53:656][832]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.53:754][842]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.53:754][842]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.53:856][852]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.53:856][852]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.53:957][862]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.53:957][862]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:063][872]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:063][872]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:163][881]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:163][881]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:256][890]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:256][890]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:358][900]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:359][900]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:457][910]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:458][910]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:553][920]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:553][920]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:665][931]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:665][931]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:754][940]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:754][940]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:861][951]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:861][951]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.54:956][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.54:956][961]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.55:062][971]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.55:062][971]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.55:159][981]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.13.55:159][981]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.13.55:484][ 14]LogBlueprintUserMessages: [WB_Frigo_C_0] lembas : Expire dans :10x2
+[2026.03.12-10.13.55:485][ 14]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.13.55:485][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.13.55:492][ 14]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.55:492][ 14]LogBlueprintUserMessages: [Wb_ListItem_C_0] Group
+[2026.03.12-10.13.56:986][157]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.56:986][157]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.57:004][159]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.57:527][212]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.58:859][350]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.58:859][350]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.13.58:878][352]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.13.59:794][443]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.01:846][647]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.01:846][647]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.01:868][649]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.14.02:770][737]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.03:680][828]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.03:680][828]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.03:700][830]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.14.04:392][902]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.08:514][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.14.08:514][317]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.14.08:514][317]LogWorld: UWorld::CleanupWorld for Map_Appartement, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.14.08:515][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.14.08:516][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-10.14.08:522][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.14.08:548][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.12-10.14.08:548][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.03.12-10.14.08:548][317]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.03.12-10.14.08:550][317]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.03.12-10.14.08:556][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.14.08:559][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.03.12-10.14.08:593][318]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.03.12-10.14.17:623][991]LogSlate: Window 'Delete widgets' being destroyed
+[2026.03.12-10.14.22:031][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.03.12-10.14.22:675][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-10.14.22:717][445]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem] ([2] browsable assets)...
+[2026.03.12-10.14.22:722][445]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.Wb_ListItem]
+[2026.03.12-10.14.22:722][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem]
+[2026.03.12-10.14.22:744][445]LogSavePackage: Moving output files for package: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem
+[2026.03.12-10.14.22:744][445]LogSavePackage: Moving '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Saved/Wb_ListItem7C4C67B447A2B3EECFC98BB51E39EF90.tmp' to '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Content/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.uasset'
+[2026.03.12-10.14.22:754][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.113 ms (total: 4.59 sec)
+[2026.03.12-10.14.22:786][445]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-10.14.22:786][445]LogContentValidation: Enabled validators:
+[2026.03.12-10.14.22:786][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-10.14.22:786][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-10.14.22:786][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-10.14.22:786][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-10.14.22:786][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-10.14.22:786][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-10.14.22:786][445]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem Validating asset
+[2026.03.12-10.14.31:471][374]LogEditorTransaction: Undo Create Pin Link
+[2026.03.12-10.14.32:088][392]LogEditorTransaction: Undo Delete current selection
+[2026.03.12-10.14.36:233][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.12-10.14.36:775][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-10.14.36:811][826]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem] ([2] browsable assets)...
+[2026.03.12-10.14.36:813][826]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.Wb_ListItem]
+[2026.03.12-10.14.36:813][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem]
+[2026.03.12-10.14.36:835][826]LogSavePackage: Moving output files for package: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem
+[2026.03.12-10.14.36:836][826]LogSavePackage: Moving '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Saved/Wb_ListItemA79EFE154C3CC2B21C8B5BA455B30D26.tmp' to '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Content/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.uasset'
+[2026.03.12-10.14.36:847][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.679 ms (total: 4.66 sec)
+[2026.03.12-10.14.36:895][826]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-10.14.36:895][826]LogContentValidation: Enabled validators:
+[2026.03.12-10.14.36:895][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-10.14.36:895][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-10.14.36:895][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-10.14.36:895][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-10.14.36:895][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-10.14.36:895][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-10.14.36:896][826]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem Validating asset
+[2026.03.12-10.14.37:815][915]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.12-10.14.37:827][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-10.14.37:827][915]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.14.37:832][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004398s)
+[2026.03.12-10.14.37:832][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Map_Appartement.Map_Appartement to /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement (0.004438s)
+[2026.03.12-10.14.37:860][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.12-10.14.37:864][915]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Appartement
+[2026.03.12-10.14.37:866][915]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2026.03.12-10.14.37:867][915]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-10.14.37:867][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-10.14.37:867][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-10.14.37:867][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-10.14.37:867][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-10.14.37:867][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-10.14.37:870][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-10.14.37:900][915]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2026.03.12-10.14.37:900][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-10.14.37:900][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-10.14.37:900][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-10.14.37:901][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.03.12-10.14.37:901][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.03.12-10.14.37:903][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.03.12-10.14.37:903][915]LogInit: FAudioDevice initialized with ID 36.
+[2026.03.12-10.14.37:903][915]LogAudio: Display: Audio Device (ID: 36) registered with world 'Map_Appartement'.
+[2026.03.12-10.14.37:903][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.03.12-10.14.37:903][915]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.03.12-10.14.37:907][915]LogLoad: Game class is 'GM_JourDeTrop_C'
+[2026.03.12-10.14.37:908][915]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement up for play (max tick rate 0) at 2026.03.12-11.14.37
+[2026.03.12-10.14.37:909][915]LogWorld: Bringing up level for play took: 0.001014
+[2026.03.12-10.14.37:911][915]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.03.12-10.14.37:913][915]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Jour Suivant
+[2026.03.12-10.14.37:913][915]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Pas de commande en cours
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Modification valeur
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Modification valeur
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Modification valeur
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.14.37:914][915]LogBlueprintUserMessages: [Map_Appartement_C_0] Aucune
+[2026.03.12-10.14.37:915][915]PIE: Server logged in
+[2026.03.12-10.14.37:918][915]PIE: Play in editor total start time 0,091 seconds.
+[2026.03.12-10.14.37:931][916]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.37:931][916]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:024][918]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:024][918]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:122][929]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:122][929]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:224][940]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:224][940]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:320][950]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:320][950]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:422][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:422][961]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:522][972]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:522][972]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:619][982]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:619][982]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:719][992]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:719][992]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:835][  3]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:836][  3]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.38:919][ 12]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.38:920][ 12]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.39:018][ 22]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.39:018][ 22]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.39:120][ 33]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.39:120][ 33]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.39:373][ 58]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.14.39:373][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.12-10.14.41:097][204]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nouvelle Entrer
+[2026.03.12-10.14.41:097][204]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Ajout au Panier : 5 : 125
+[2026.03.12-10.14.41:098][204]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] ID : lembas
+[2026.03.12-10.14.41:835][265]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nombres contenus :1
+[2026.03.12-10.14.41:835][265]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.14.42:469][318]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.14.42:727][343]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.42:727][343]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.42:827][352]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.42:827][352]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.42:924][361]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.42:924][361]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:022][371]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:022][371]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:119][381]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:120][381]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:219][392]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:219][392]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:264][397]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Jour Suivant
+[2026.03.12-10.14.43:265][397]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Livraison Colis Aujourd'hui : 0
+[2026.03.12-10.14.43:265][397]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Hello
+[2026.03.12-10.14.43:319][403]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:319][403]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:420][414]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:420][414]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:517][424]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:517][424]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:622][435]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:622][435]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:722][445]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:722][445]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:818][455]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:818][455]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.43:909][465]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.43:910][465]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.44:419][518]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.44:419][518]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.44:522][528]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.44:522][528]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.44:624][539]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.44:624][539]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.44:722][550]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.44:722][550]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.44:818][560]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.44:818][560]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.44:922][571]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.44:922][571]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:020][581]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:020][581]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:117][591]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:117][591]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:225][602]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:225][602]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:321][612]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:322][612]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:424][622]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:425][622]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:523][631]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:523][631]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:618][640]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:619][640]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:724][651]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:724][651]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:826][661]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:826][661]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.45:927][671]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.45:927][671]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.46:249][702]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.14.46:250][702]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.14.46:251][702]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.14.46:251][702]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.14.46:252][702]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.14.46:252][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.14.46:889][762]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.14.46:890][762]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.14.46:891][762]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.14.46:891][762]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Icone_Faim
+[2026.03.12-10.14.46:892][762]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_3] Colis
+[2026.03.12-10.14.47:071][779]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Rien
+[2026.03.12-10.14.47:071][779]LogBlueprintUserMessages: [GI_JourDeTrop_C_34] Add new : Quantity -> 5In,dex : 0
+[2026.03.12-10.14.47:072][779]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_7] Aliment
+[2026.03.12-10.14.47:771][846]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.14.47:772][846]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.14.47:772][846]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.14.47:918][862]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.14.48:122][883]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:122][883]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:229][893]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:229][893]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:317][902]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:318][902]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:427][913]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:427][913]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:521][922]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:521][922]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:624][932]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:624][932]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:726][941]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:726][941]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:819][950]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:819][950]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.48:918][960]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.48:918][960]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:021][971]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:021][971]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:121][981]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:121][981]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:225][991]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:225][991]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:319][  1]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:319][  1]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:427][ 12]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:427][ 12]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:519][ 21]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:519][ 21]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:627][ 32]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:627][ 32]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:723][ 41]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.14.49:723][ 41]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.14.49:924][ 61]LogBlueprintUserMessages: [WB_Frigo_C_0] lembas : Expire dans :10x5
+[2026.03.12-10.14.49:924][ 61]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.14.49:924][ 61]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.14.49:931][ 61]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.49:932][ 61]LogBlueprintUserMessages: [Wb_ListItem_C_0] Group
+[2026.03.12-10.14.50:765][140]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.50:765][140]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.50:788][142]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.14.51:533][212]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.52:179][275]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.52:179][275]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.52:199][277]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.14.53:110][366]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.53:532][407]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.53:532][407]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.53:555][409]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.14.53:960][447]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.14.55:905][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.14.55:905][626]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.14.55:905][626]LogWorld: UWorld::CleanupWorld for Map_Appartement, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.14.55:906][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.14.55:907][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-10.14.55:915][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.14.55:947][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.12-10.14.55:947][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.03.12-10.14.55:948][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.03.12-10.14.55:950][626]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.03.12-10.14.55:958][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.14.55:963][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.03.12-10.14.56:004][627]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.03.12-10.15.00:166][976]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.12-10.15.00:181][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.12-10.15.00:181][976]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.15.00:186][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2026.03.12-10.15.00:186][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Map_Appartement.Map_Appartement to /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement (0.004999s)
+[2026.03.12-10.15.00:217][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.03.12-10.15.00:222][976]LogChaosDD: Creating Chaos Debug Draw Scene for world Map_Appartement
+[2026.03.12-10.15.00:224][976]LogPlayLevel: PIE: World Init took: (0.002258s)
+[2026.03.12-10.15.00:225][976]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.12-10.15.00:225][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.12-10.15.00:226][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.12-10.15.00:226][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.12-10.15.00:226][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.12-10.15.00:226][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.12-10.15.00:229][976]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.12-10.15.00:260][976]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2026.03.12-10.15.00:261][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.12-10.15.00:261][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.12-10.15.00:261][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.12-10.15.00:261][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.03.12-10.15.00:261][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.03.12-10.15.00:266][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.03.12-10.15.00:266][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.03.12-10.15.00:266][976]LogInit: FAudioDevice initialized with ID 37.
+[2026.03.12-10.15.00:266][976]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map_Appartement'.
+[2026.03.12-10.15.00:266][976]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.03.12-10.15.00:270][976]LogLoad: Game class is 'GM_JourDeTrop_C'
+[2026.03.12-10.15.00:271][976]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement up for play (max tick rate 0) at 2026.03.12-11.15.00
+[2026.03.12-10.15.00:272][976]LogWorld: Bringing up level for play took: 0.001088
+[2026.03.12-10.15.00:274][976]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.03.12-10.15.00:277][976]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Jour Suivant
+[2026.03.12-10.15.00:277][976]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Pas de commande en cours
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Modification valeur
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Modification valeur
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Modification valeur
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [WB_Jauges_C_0] Percent Result : 0.5
+[2026.03.12-10.15.00:278][976]LogBlueprintUserMessages: [Map_Appartement_C_0] Aucune
+[2026.03.12-10.15.00:280][976]PIE: Server logged in
+[2026.03.12-10.15.00:282][976]PIE: Play in editor total start time 0,102 seconds.
+[2026.03.12-10.15.00:297][977]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:297][977]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:368][978]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:368][978]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:472][987]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:472][987]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:569][997]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:569][997]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:676][  8]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:676][  8]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:776][ 18]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:776][ 18]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:869][ 27]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:869][ 27]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.00:971][ 37]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.00:971][ 37]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.01:071][ 47]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.01:071][ 47]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.01:191][ 58]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.01:191][ 58]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.01:276][ 66]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.01:276][ 66]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.01:369][ 74]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.01:369][ 74]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.01:474][ 84]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.01:474][ 84]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.01:899][124]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.01:899][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.12-10.15.03:942][281]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nouvelle Entrer
+[2026.03.12-10.15.03:942][281]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Ajout au Panier : 5 : 125
+[2026.03.12-10.15.03:943][281]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] ID : lembas
+[2026.03.12-10.15.04:413][316]LogBlueprintUserMessages: [WB_CommandeNourriture_C_0] Nombres contenus :1
+[2026.03.12-10.15.04:415][316]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.04:977][359]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.15.05:379][397]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:379][397]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.05:471][405]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:471][405]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.05:483][406]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Jour Suivant
+[2026.03.12-10.15.05:483][406]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Livraison Colis Aujourd'hui : 0
+[2026.03.12-10.15.05:483][406]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Hello
+[2026.03.12-10.15.05:573][415]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:573][415]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.05:672][425]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:673][425]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.05:770][435]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:770][435]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.05:875][445]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:876][445]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.05:975][455]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.05:975][455]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:070][464]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:070][464]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:172][474]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:172][474]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:276][484]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:276][484]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:373][494]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:373][494]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:471][504]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:471][504]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:572][514]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:572][514]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:674][524]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.06:674][524]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.06:972][553]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.15.06:972][553]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.15.06:973][553]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.15.06:974][553]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.15.06:974][553]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.06:974][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.15.07:707][621]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.15.07:707][621]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.15.07:709][621]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.15.07:709][621]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Icone_Faim
+[2026.03.12-10.15.07:710][621]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_3] Colis
+[2026.03.12-10.15.07:945][643]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Rien
+[2026.03.12-10.15.07:945][643]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Add new : Quantity -> 5In,dex : 0
+[2026.03.12-10.15.07:945][643]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_7] Aliment
+[2026.03.12-10.15.08:647][706]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.15.08:647][706]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Colis
+[2026.03.12-10.15.08:648][706]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_0] Lettre_Fermer
+[2026.03.12-10.15.08:717][713]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.15.08:971][736]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.08:971][736]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:078][745]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:078][745]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:171][754]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:171][754]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:272][764]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:272][764]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:368][773]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:368][773]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:475][782]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:475][782]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:575][791]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:575][791]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:676][801]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:676][801]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:767][810]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:768][810]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:870][820]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:870][820]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.09:971][830]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.09:971][830]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.10:077][840]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.10:077][840]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.10:177][850]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.10:177][850]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.10:274][860]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.10:274][860]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.10:367][869]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.10:367][869]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.10:470][879]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.10:470][879]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.10:717][904]LogBlueprintUserMessages: [WB_Frigo_C_0] lembas : Expire dans :10x5
+[2026.03.12-10.15.10:717][904]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.10:717][904]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.15.10:725][904]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.15.10:726][904]LogBlueprintUserMessages: [Wb_ListItem_C_0] Group
+[2026.03.12-10.15.11:528][979]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.15.11:528][979]LogBlueprintUserMessages: [WB_Frigo_C_0] Children Requested
+[2026.03.12-10.15.11:550][981]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.15.13:174][137]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.15.13:374][155]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.13:374][155]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.13:469][163]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.13:469][163]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.13:725][184]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.13:725][184]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.15.15:438][312]LogBlueprintUserMessages: [WB_CommandeNourriture_C_1] Nouvelle Entrer
+[2026.03.12-10.15.15:438][312]LogBlueprintUserMessages: [WB_CommandeNourriture_C_1] Ajout au Panier : 3 : 45
+[2026.03.12-10.15.15:440][312]LogBlueprintUserMessages: [WB_CommandeNourriture_C_1] ID : lembas
+[2026.03.12-10.15.15:920][351]LogBlueprintUserMessages: [WB_CommandeNourriture_C_1] Nombres contenus :1
+[2026.03.12-10.15.15:920][351]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.16:421][393]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.15.16:577][409]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.16:577][409]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.16:669][418]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.16:669][418]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.16:775][429]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.16:775][429]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.16:873][439]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.16:873][439]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.16:976][450]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.16:976][450]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:076][460]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:076][460]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:177][470]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:177][470]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:219][474]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Jour Suivant
+[2026.03.12-10.15.17:219][474]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Livraison Colis Aujourd'hui : 0
+[2026.03.12-10.15.17:219][474]LogBlueprintUserMessages: [GM_JourDeTrop_C_0] Hello
+[2026.03.12-10.15.17:276][480]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:276][480]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:369][490]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:369][490]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:475][500]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:476][500]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:577][510]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:578][510]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:677][520]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:677][520]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:770][530]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:770][530]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:871][541]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:872][541]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.17:974][552]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.17:974][552]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.18:273][584]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.18:274][584]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.15.18:274][584]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.18:274][584]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.18:275][584]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.15.18:275][584]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.18:275][584]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.15.18:911][647]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.18:911][647]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.15.18:912][647]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.18:913][647]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.18:913][647]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Icone_Faim
+[2026.03.12-10.15.18:913][647]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_4] Colis
+[2026.03.12-10.15.19:191][676]LogBlueprintUserMessages: [GI_JourDeTrop_C_35] Add new : Quantity -> 3In,dex : 1
+[2026.03.12-10.15.19:191][676]LogBlueprintUserMessages: [WB_Boite_ScrollItem_C_9] Aliment
+[2026.03.12-10.15.19:889][743]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.19:890][743]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Colis
+[2026.03.12-10.15.19:890][743]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.19:891][743]LogBlueprintUserMessages: [WB_BoiteAuxLettres_C_1] Lettre_Fermer
+[2026.03.12-10.15.20:054][759]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.12-10.15.20:173][770]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:173][770]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:276][779]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:276][779]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:377][788]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:377][788]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:468][797]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:468][797]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:571][808]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:571][808]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:676][819]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:676][819]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:772][830]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:773][830]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:870][840]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:870][840]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.20:977][851]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.20:977][851]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:071][861]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:071][861]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:174][872]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:174][872]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:272][882]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:272][882]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:375][893]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:375][893]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:469][903]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:469][903]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:574][914]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:574][914]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:671][924]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:671][924]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:774][935]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:774][935]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.21:868][945]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'InteractableInRange' of length 0 in '/Game/Blueprints/SystemInterraction/AC_PlayerInterraction.AC_PlayerInterraction_C'!
+[2026.03.12-10.15.21:868][945]LogScript: Warning: Script Msg called by: AC_PlayerInterraction_C /Game/Levels/UEDPIE_0_Map_Appartement.Map_Appartement:PersistentLevel.BP_Player_C_0.AC_PlayerInterraction
+[2026.03.12-10.15.22:077][967]LogBlueprintUserMessages: [WB_Frigo_C_1] lembas : Expire dans :9x5
+[2026.03.12-10.15.22:077][967]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.03.12-10.15.22:077][967]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.03.12-10.15.22:085][967]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.22:085][967]LogBlueprintUserMessages: [Wb_ListItem_C_0] Group
+[2026.03.12-10.15.24:008][159]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.24:008][159]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.24:031][161]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.15.25:037][265]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.25:521][313]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.25:521][313]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.25:541][315]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.15.27:586][521]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.28:017][565]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.28:017][565]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.28:038][567]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.15.28:436][607]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.29:309][696]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.29:309][696]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.29:329][698]LogBlueprintUserMessages: [Wb_ListItem_C_1] Pas groupe
+[2026.03.12-10.15.29:878][755]LogBlueprintUserMessages: [WB_Frigo_C_1] Children Requested
+[2026.03.12-10.15.30:365][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.15.30:365][800]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map_Appartement
+[2026.03.12-10.15.30:365][800]LogWorld: UWorld::CleanupWorld for Map_Appartement, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.30:365][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.30:366][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.12-10.15.30:372][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.30:399][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.12-10.15.30:399][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.03.12-10.15.30:400][800]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.03.12-10.15.30:402][800]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.03.12-10.15.30:410][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.03.12-10.15.30:445][801]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.03.12-10.15.38:368][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-10.15.38:405][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem] ([2] browsable assets)...
+[2026.03.12-10.15.38:405][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem]
+[2026.03.12-10.15.38:425][538]LogSavePackage: Moving output files for package: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem
+[2026.03.12-10.15.38:426][538]LogSavePackage: Moving '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Saved/Wb_ListItemB234F7824DFEAF6385411FBC67955BCF.tmp' to '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Content/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.uasset'
+[2026.03.12-10.15.38:436][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.384 ms (total: 4.73 sec)
+[2026.03.12-10.15.38:476][538]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-10.15.38:476][538]LogContentValidation: Enabled validators:
+[2026.03.12-10.15.38:476][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-10.15.38:476][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-10.15.38:476][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-10.15.38:476][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-10.15.38:476][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-10.15.38:476][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-10.15.38:476][538]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem Validating asset
+[2026.03.12-10.15.41:582][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.12-10.15.42:128][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.12-10.15.42:165][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem] ([2] browsable assets)...
+[2026.03.12-10.15.42:167][887]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.Wb_ListItem]
+[2026.03.12-10.15.42:167][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem]
+[2026.03.12-10.15.42:188][887]LogSavePackage: Moving output files for package: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem
+[2026.03.12-10.15.42:189][887]LogSavePackage: Moving '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Saved/Wb_ListItem5CE26C874D1E87F6DC32309CC20B705E.tmp' to '../../../../../../Users/Pierre/Desktop/JourDeTrop/JourDeTrop/Content/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem.uasset'
+[2026.03.12-10.15.42:198][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.103 ms (total: 4.80 sec)
+[2026.03.12-10.15.42:229][887]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.12-10.15.42:229][887]LogContentValidation: Enabled validators:
+[2026.03.12-10.15.42:229][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.12-10.15.42:229][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.12-10.15.42:229][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.12-10.15.42:229][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.12-10.15.42:229][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.12-10.15.42:229][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.12-10.15.42:230][887]AssetCheck: /Game/Blueprints/Appartement/Frigo/Inventaire/Wb_ListItem Validating asset
+[2026.03.12-10.15.47:502][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.12-10.15.48:760][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.12-10.15.48:856][381]LogStall: Shutdown...
+[2026.03.12-10.15.48:856][381]LogStall: Shutdown complete.
+[2026.03.12-10.15.48:969][381]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.48:969][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.48:982][381]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.48:982][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.49:074][381]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.49:074][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.49:246][381]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.49:246][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.49:258][381]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.49:258][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.49:394][381]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.49:394][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.49:408][381]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.49:408][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.49:588][381]LogSlate: Window 'JourDeTrop - Unreal Editor' being destroyed
+[2026.03.12-10.15.50:443][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.03.12-10.15.50:474][381]Cmd: QUIT_EDITOR
+[2026.03.12-10.15.50:474][382]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.12-10.15.50:494][382]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.12-10.15.50:504][382]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.12-10.15.50:504][382]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.12-10.15.50:509][382]LogWorld: UWorld::CleanupWorld for Map_Appartement, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.50:509][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.50:551][382]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.12-10.15.50:554][382]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.12-10.15.50:560][382]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.12-10.15.50:596][382]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.03.12-10.15.50:596][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.12-10.15.50:608][382]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.12-10.15.50:609][382]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.12-10.15.50:617][382]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.12-10.15.51:504][382]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.12-10.15.51:504][382]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.12-10.15.51:504][382]LogAudio: Display: Audio Device unregistered from world 'Map_Appartement'.
+[2026.03.12-10.15.51:505][382]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.12-10.15.51:505][382]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.12-10.15.51:508][382]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.12-10.15.51:517][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.12-10.15.51:518][382]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.12-10.15.51:519][382]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.03.12-10.15.51:523][382]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.12-10.15.51:524][382]LogExit: Preparing to exit.
+[2026.03.12-10.15.51:597][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.03.12-10.15.51:603][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:603][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:604][382]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.12-10.15.51:911][382]LogEditorDataStorage: Deinitializing
+[2026.03.12-10.15.52:170][382]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.12-10.15.52:231][382]LogExit: Editor shut down
+[2026.03.12-10.15.52:238][382]LogExit: Transaction tracking system shut down
+[2026.03.12-10.15.52:978][382]LogExit: Object subsystem successfully closed.
+[2026.03.12-10.15.53:074][382]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.12-10.15.53:279][382]LogAutoSizeComments: Shutdown AutoSizeComments
+[2026.03.12-10.15.53:327][382]LogMemoryProfiler: Shutdown
+[2026.03.12-10.15.53:328][382]LogNetworkingProfiler: Shutdown
+[2026.03.12-10.15.53:329][382]LoadingProfiler: Shutdown
+[2026.03.12-10.15.53:329][382]LogTimingProfiler: Shutdown
+[2026.03.12-10.15.53:338][382]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.12-10.15.53:339][382]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.12-10.15.53:772][382]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.12-10.15.53:781][382]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.12-10.15.53:810][382]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.12-10.15.53:810][382]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF51648EA-4AFE-7444-E804-56A22FC07716%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=bdb7fab74b8bf63318b7f3a4329859de%7Cfbb44e96f5084fe888122e03278f734d%7C9ab78195-3100-475f-83a6-e595bf54804c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.12-10.15.54:372][382]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.12-10.15.54:373][382]RenderDocPlugin: plugin has been unloaded.
+[2026.03.12-10.15.54:378][382]LogXGEController: Cleaning working directory: C:/Users/Pierre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.12-10.15.54:390][382]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.12-10.15.54:390][382]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.12-10.15.54:390][382]LogPakFile: Destroying PakPlatformFile
+[2026.03.12-10.15.54:924][382]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.12-10.15.54:951][382]LogExit: Exiting.
+[2026.03.12-10.15.54:988][382]Log file closed, 03/12/26 11:15:54
